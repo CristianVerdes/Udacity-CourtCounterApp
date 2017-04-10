@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FootballCounter</string>
+    <string name="history">History</string>
+    <string name="help">Help</string>
+    <string name="somethiing">something</string>
+    <string name="fouls">Fouls</string>
+    <string name="_0">0</string>
+    <string name="goal">Goal</string>
+    <string name="team_b">Team B</string>
+    <string name="team_a">Team A</string>
+    <string name="end_game">End Game</string>
+    <string name="is_the_winning_team">IS THE WINNING TEAM!!!</string>
+</resources>
